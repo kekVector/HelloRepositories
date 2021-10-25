@@ -1,0 +1,16 @@
+C:\Users\Я ВАЛУН\Desktop\GB\25.10\Hello\HelloFirst\bin\Debug\net6.0\HelloFirst.exe
+C:\Users\Я ВАЛУН\Desktop\GB\25.10\Hello\HelloFirst\bin\Debug\net6.0\HelloFirst.deps.json
+C:\Users\Я ВАЛУН\Desktop\GB\25.10\Hello\HelloFirst\bin\Debug\net6.0\HelloFirst.runtimeconfig.json
+C:\Users\Я ВАЛУН\Desktop\GB\25.10\Hello\HelloFirst\bin\Debug\net6.0\HelloFirst.dll
+C:\Users\Я ВАЛУН\Desktop\GB\25.10\Hello\HelloFirst\bin\Debug\net6.0\ref\HelloFirst.dll
+C:\Users\Я ВАЛУН\Desktop\GB\25.10\Hello\HelloFirst\bin\Debug\net6.0\HelloFirst.pdb
+C:\Users\Я ВАЛУН\Desktop\GB\25.10\Hello\HelloFirst\obj\Debug\net6.0\HelloFirst.GlobalUsings.g.cs
+C:\Users\Я ВАЛУН\Desktop\GB\25.10\Hello\HelloFirst\obj\Debug\net6.0\HelloFirst.csproj.AssemblyReference.cache
+C:\Users\Я ВАЛУН\Desktop\GB\25.10\Hello\HelloFirst\obj\Debug\net6.0\HelloFirst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Я ВАЛУН\Desktop\GB\25.10\Hello\HelloFirst\obj\Debug\net6.0\HelloFirst.AssemblyInfoInputs.cache
+C:\Users\Я ВАЛУН\Desktop\GB\25.10\Hello\HelloFirst\obj\Debug\net6.0\HelloFirst.AssemblyInfo.cs
+C:\Users\Я ВАЛУН\Desktop\GB\25.10\Hello\HelloFirst\obj\Debug\net6.0\HelloFirst.csproj.CoreCompileInputs.cache
+C:\Users\Я ВАЛУН\Desktop\GB\25.10\Hello\HelloFirst\obj\Debug\net6.0\HelloFirst.dll
+C:\Users\Я ВАЛУН\Desktop\GB\25.10\Hello\HelloFirst\obj\Debug\net6.0\ref\HelloFirst.dll
+C:\Users\Я ВАЛУН\Desktop\GB\25.10\Hello\HelloFirst\obj\Debug\net6.0\HelloFirst.pdb
+C:\Users\Я ВАЛУН\Desktop\GB\25.10\Hello\HelloFirst\obj\Debug\net6.0\HelloFirst.genruntimeconfig.cache
