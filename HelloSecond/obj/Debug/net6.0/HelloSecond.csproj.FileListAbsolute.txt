@@ -1,0 +1,16 @@
+C:\Users\Я ВАЛУН\Desktop\GB\25.10\Hello\HelloSecond\bin\Debug\net6.0\HelloSecond.exe
+C:\Users\Я ВАЛУН\Desktop\GB\25.10\Hello\HelloSecond\bin\Debug\net6.0\HelloSecond.deps.json
+C:\Users\Я ВАЛУН\Desktop\GB\25.10\Hello\HelloSecond\bin\Debug\net6.0\HelloSecond.runtimeconfig.json
+C:\Users\Я ВАЛУН\Desktop\GB\25.10\Hello\HelloSecond\bin\Debug\net6.0\HelloSecond.dll
+C:\Users\Я ВАЛУН\Desktop\GB\25.10\Hello\HelloSecond\bin\Debug\net6.0\ref\HelloSecond.dll
+C:\Users\Я ВАЛУН\Desktop\GB\25.10\Hello\HelloSecond\bin\Debug\net6.0\HelloSecond.pdb
+C:\Users\Я ВАЛУН\Desktop\GB\25.10\Hello\HelloSecond\obj\Debug\net6.0\HelloSecond.GlobalUsings.g.cs
+C:\Users\Я ВАЛУН\Desktop\GB\25.10\Hello\HelloSecond\obj\Debug\net6.0\HelloSecond.csproj.AssemblyReference.cache
+C:\Users\Я ВАЛУН\Desktop\GB\25.10\Hello\HelloSecond\obj\Debug\net6.0\HelloSecond.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Я ВАЛУН\Desktop\GB\25.10\Hello\HelloSecond\obj\Debug\net6.0\HelloSecond.AssemblyInfoInputs.cache
+C:\Users\Я ВАЛУН\Desktop\GB\25.10\Hello\HelloSecond\obj\Debug\net6.0\HelloSecond.AssemblyInfo.cs
+C:\Users\Я ВАЛУН\Desktop\GB\25.10\Hello\HelloSecond\obj\Debug\net6.0\HelloSecond.csproj.CoreCompileInputs.cache
+C:\Users\Я ВАЛУН\Desktop\GB\25.10\Hello\HelloSecond\obj\Debug\net6.0\HelloSecond.dll
+C:\Users\Я ВАЛУН\Desktop\GB\25.10\Hello\HelloSecond\obj\Debug\net6.0\ref\HelloSecond.dll
+C:\Users\Я ВАЛУН\Desktop\GB\25.10\Hello\HelloSecond\obj\Debug\net6.0\HelloSecond.pdb
+C:\Users\Я ВАЛУН\Desktop\GB\25.10\Hello\HelloSecond\obj\Debug\net6.0\HelloSecond.genruntimeconfig.cache
